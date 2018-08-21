@@ -12,7 +12,6 @@ An alternative to UILabel, with the option of a padding text.
 If you like what you see here, and want to support the work being done in this repository, you could:
 * Actually code, and issue pull requests
 * Spread the word
-* 
 
 ## License
 
